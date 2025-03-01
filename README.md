@@ -1,2 +1,6 @@
-# learning
-Repositorio para guardar el código de lo que voy aprendiendo.
+# fundamentals
+
+Correr en Dev
+```
+npm run dev
+```
