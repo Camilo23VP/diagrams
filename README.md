@@ -1,2 +1,2 @@
-# learning
-Repositorio para guardar el código de lo que voy aprendiendo.
+# Diagrams
+Repositorio para guardar los diagramas generados.
